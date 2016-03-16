@@ -14,6 +14,21 @@ A painfully obsessive cheat sheet to favicon sizes/types. Compiled from:
 
 .. _`@mathiasbynens`: https://github.com/mathiasbynens
 
+Table of contents
+-----------------
+
+- `The HTML`_
+   - `Basics`_
+   - `Optional But Encouraged`_
+   - `Very Optional, for the Obsessive`_
+- `The Images`_
+- `ICO File`_
+- `Software`_
+- `Helpful Tools`_
+- `Forcing a Favicon Refresh`_
+- `Contribute!`_
+- `References`_
+
 The HTML
 --------
 
@@ -187,6 +202,15 @@ Create your .ico out of optimized .png files.
 TODO: get confirmation that IE9+ supports .ico files that contain .png files (issue `#9`_)
 
 .. _`#9`: https://github.com/audreyr/favicon-cheat-sheet/issues/9
+
+
+Software
+--------
+
+
+- `Django <https://github.com/django/django>`_
+   +  `django-favicon-plus <https://github.com/arteria/django-favicon-plus>`_
+
 
 Helpful Tools
 -------------
